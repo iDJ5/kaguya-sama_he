@@ -1,0 +1,25 @@
+{
+  "title": "אהבה היא מלחמה",
+  "description": "<manga description>",
+  "artist": "אקה אקאסקה",
+  "author": "אקה אקאסקה",
+  "cover": "https://imgur.com/a/lBcbIMi",
+  "chapters": {
+    "1": {
+      "title": "אני רוצה שיזמינו אותי לסרט",
+      "volume": "1",
+      "groups": {
+        "joe mama": "/proxy/api/imgur/chapter/0oItXRJ/"
+      },
+      "last_updated": "1616368746"
+    },
+     "2": {
+      "title": "ְאני רוצה לשחק לֶמֶך",
+      "volume": "1",
+      "groups": {
+        "joe mama": "/proxy/api/imgur/chapter/cCvXgDT/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
