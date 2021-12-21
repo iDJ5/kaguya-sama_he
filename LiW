@@ -85,26 +85,7 @@
         "Don": "/proxy/api/imgur/chapter/4VL2tfU/"
       },
       "last_updated": "1616368746"
-    },
-    "228":
-     {
-      "title": 'האתגר הבלתי-אפשרי של קאגויה שינומיה: "קערת הנדבות מאבן של הבודהה" (חלק 3)',
-      "volume": "23",
-      "groups": 
-      {
-        "Don": "/proxy/api/imgur/chapter/J3xgqeW/"
-      },
-      "last_updated": "1616368746"
-    },
-    "229":
-     {
-      "title": '(האתגר הבלתי-אפשרי של קאגויה שינומיה: "קערת הנדבות מאבן של הבודהה" (חלק 4',
-      "volume": "23",
-      "groups": 
-      {
-        "Don": "/proxy/api/imgur/chapter/HrIH9PC/"
-      },
-      "last_updated": "1616368746"
+    
     }
   }
 }
