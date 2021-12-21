@@ -4,20 +4,105 @@
   "artist": "אקה אקאסקה",
   "author": "אקה אקאסקה",
   "cover": "https://upload.wikimedia.org/wikipedia/en/8/87/Kaguya-sama_Love_is_War_art.jpg",
-  "chapters": {
-    "1": {
+  "chapters": 
+  {
+    "1": 
+    {
       "title": "אני רוצה שיזמינו אותי לסרט",
       "volume": "1",
-      "groups": {
-        "joe mama": "/proxy/api/imgur/chapter/0oItXRJ/"
+      "groups": 
+      {
+        "Don": "/proxy/api/imgur/chapter/0oItXRJ/"
       },
       "last_updated": "1616368746"
     },
-     "2": {
-      "title": "אני רוצה לשחק לֶמֶך",
+     "2": 
+     {
+      "title": "אני רוצה לשחק למך",
       "volume": "1",
-      "groups": {
-        "joe mama": "/proxy/api/imgur/chapter/cCvXgDT/"
+      "groups": 
+      {
+        "Don": "/proxy/api/imgur/chapter/cCvXgDT/"
+      },
+      "last_updated": "1616368746"
+    },
+    "3": 
+     {
+      "title": "קאגויה לא יודעת הרבה",
+      "volume": "1",
+      "groups": 
+      {
+        "Don": "/proxy/api/imgur/chapter/ljdcllo/"
+      },
+      "last_updated": "1616368746"
+    },
+    "44": 
+     {
+      "title": "אני לא שומעת את הזיקוקים (חלק 1)",
+      "volume": "5",
+      "groups": 
+      {
+        "Don": "/proxy/api/imgur/chapter/ljdcllo/"
+      },
+      "last_updated": "1616368746"
+    },
+    "100": 
+     {
+      "title": "מועצת התלידים רוצה שיצלמו אותה (חלק 1)",
+      "volume": "10",
+      "groups": 
+      {
+        "Don": "/proxy/api/imgur/chapter/9d9G3QZ/"
+      },
+      "last_updated": "1616368746"
+    },
+    "101": 
+     {
+      "title": "אנחנו רוצות לדבר על פסטיבל התרבות",
+      "volume": "10",
+      "groups": 
+      {
+        "Don": "/proxy/api/imgur/chapter/XZgpjkO/"
+      },
+      "last_updated": "1616368746"
+    },
+    "116": 
+     {
+      "title": "מועצת התלידים רוצה שיצלמו אותה (חלק 2)",
+      "volume": "12",
+      "groups": 
+      {
+        "Don": "/proxy/api/imgur/chapter/Zd7YM53/"
+      },
+      "last_updated": "1616368746"
+    },
+    "188": 
+     {
+      "title": "למיקו יינו אסור לחטט",
+      "volume": "19",
+      "groups": 
+      {
+        "Don": "/proxy/api/imgur/chapter/4VL2tfU/"
+      },
+      "last_updated": "1616368746"
+    },
+    "228":
+     {
+      "title": "האתגר הבלתי-אפשרי של קאגויה שינומיה: "קערת הנדבות מאבן של הבודהה" (חלק 3)",
+      "volume": "23",
+      "groups": 
+      {
+        "Don": "/proxy/api/imgur/chapter/J3xgqeW/"
+      },
+      "last_updated": "1616368746"
+    },
+    "229":
+     {
+      "title": "האתגר הבלתי-אפשרי של קאגויה שינומיה: "קערת הנדבות מאבן של הבודהה" (חלק 4)",
+      "volume": "23",
+      "groups": 
+      {
+        "Don": "/proxy/api/imgur/chapter/HrIH9PC/"
       },
       "last_updated": "1616368746"
     }
